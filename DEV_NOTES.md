@@ -10,3 +10,8 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Consolidated duplicate helper functions
 - Reorganised test fixtures
+
+## 2026-06-13
+- Added basic retry logic for network requests
+- Resolved TODO items from previous session
+- Reviewed security headers configuration
